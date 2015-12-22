@@ -6,7 +6,7 @@
 #
 
 PORTNAME= 	ghostbsd-installed-common-settings
-PORTVERSION=	2.3
+PORTVERSION=	2.4
 CATEGORIES=	x11
 
 MAINTAINER=	angelescuo@yahoo.com
@@ -14,7 +14,7 @@ COMMENT=	GhostBSD common settings in installed mode
 LICENSE =	BSD
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	GhostBSD
+GH_ACCOUNT=	angelescuo
 
 
 NO_BUILD=	yes

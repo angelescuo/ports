@@ -6,7 +6,7 @@
 #
 
 PORTNAME= 	ghostbsd-live-common-settings
-PORTVERSION=	1.2
+PORTVERSION=	1.3
 CATEGORIES=	x11
 
 MAINTAINER=	angelescuo@yahoo.com
@@ -14,7 +14,7 @@ COMMENT=	GhostBSD common settings in live mode
 LICENSE =	BSD
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	GhostBSD
+GH_ACCOUNT=	angelescuo
 
 
 NO_BUILD=	yes
